@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
-  <update>
-    <name>JT Showcase Pro Free</name>
-    <description>JT Showcase Pro Free for Joomla 6</description>
-    <element>mod_jtshowcasepro</element>
-    <type>module</type>
-    <version>0.2.1</version>
-    <infourl title="JT Showcase Pro Free">https://joomtheme.com/</infourl>
-    <downloads>
-      <downloadurl type="full" format="zip">https://github.com/joomtheme/jt-showcase-pro-updates/releases/download/v0.2.1/jt-showcase-pro-free-v0.2.1.zip</downloadurl>
-    </downloads>
-    <tags>
-      <tag>0.2</tag>
-    </tags>
-    <maintainer>JoomTheme</maintainer>
-    <maintainerurl>https://joomtheme.com/</maintainerurl>
-    <targetplatform name="joomla" version="6"/>
-    <php_minimum>8.1</php_minimum>
-  </update>
+	<update>
+		<name>JT Showcase Pro Free</name>
+		<description>JT Showcase Pro Free for Joomla 6</description>
+		<element>mod_jtshowcasepro</element>
+		<type>module</type>
+		<client>site</client>
+		<version>0.2.1</version>
+		<infourl title="JT Showcase Pro Free">https://joomtheme.com/</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/joomtheme/jt-showcase-pro-updates/releases/download/v0.2.1/jt-showcase-pro-free-v0.2.1.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer>JoomTheme</maintainer>
+		<maintainerurl>https://joomtheme.com/</maintainerurl>
+		<targetplatform name="joomla" version="6\.[0-9]+"/>
+		<php_minimum>8.1</php_minimum>
+		<sha256>BURAYA_SHA256_DEGERINI_YAPISTIR</sha256>
+	</update>
 </updates>
