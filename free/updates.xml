@@ -2,25 +2,21 @@
 <updates>
     <update>
         <name>JT Showcase Pro</name>
-        <description>JT Showcase Pro for Joomla 6</description>
+        <description>Advanced Bootstrap-based showcase module for Joomla 6 articles, custom fields and CTA buttons.</description>
         <element>mod_jtshowcasepro</element>
         <type>module</type>
         <client>site</client>
         <version>1.0.0</version>
-        <infourl title="JT Showcase Pro">
-            https://github.com/joomtheme/jt-showcase-pro-updates
-        </infourl>
+        <infourl title="JT Showcase Pro">https://github.com/joomtheme/jt-showcase-pro-updates</infourl>
         <downloads>
             <downloadurl type="full" format="zip">
-                https://github.com/joomtheme/jt-showcase-pro-updates/releases/download/v1.0.0/jt-showcase-pro-v1.0.0.zip
+                https://github.com/joomtheme/jt-showcase-pro-updates/releases/download/1.0.0/jt-showcase-pro-v1.0.0.zip
             </downloadurl>
         </downloads>
         <targetplatform name="joomla" version="^6\." />
         <php_minimum>8.1</php_minimum>
         <sha256>ec12c24914400083c96cf2dc2bb550d80a11215b8c4f6ec2fd50b8adeb638622</sha256>
-        <changelogurl>
-            https://raw.githubusercontent.com/joomtheme/jt-showcase-pro-updates/main/changelog.xml
-        </changelogurl>
+        <changelogurl>https://raw.githubusercontent.com/joomtheme/jt-showcase-pro-updates/main/changelog.xml</changelogurl>
         <maintainer>JoomTheme</maintainer>
         <maintainerurl>https://github.com/joomtheme</maintainerurl>
     </update>
