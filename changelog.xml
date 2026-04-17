@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelogs>
+    <changelog version="1.0.0">
+        <change>About section refreshed and aligned for the Pro release.</change>
+        <change>Manifest updated for the Pro-only release channel.</change>
+        <change>English and Turkish language files cleaned up and completed.</change>
+        <change>Turkish translations corrected where English text remained.</change>
+    </changelog>
+</changelogs>
