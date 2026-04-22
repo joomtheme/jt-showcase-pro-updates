@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelogs>
-    <changelog version="1.0.1">
-        <change>About section refreshed and aligned for the Pro release.</change>
-        <change>Manifest updated for the Pro-only release channel.</change>
-        <change>English and Turkish language files cleaned up and completed.</change>
-        <change>Turkish translations corrected where English text remained.</change>
+    <changelog>
+        <element>mod_jtshowcasepro</element>
+        <type>module</type>
+        <version>1.0.1</version>
+
+        <change>
+            <item>About section refreshed and aligned for the Pro release.</item>
+            <item>Manifest updated for the Pro-only release channel.</item>
+            <item>English and Turkish language files cleaned up and completed.</item>
+        </change>
+
+        <language>
+            <item>Turkish translations corrected where English text remained.</item>
+        </language>
+
+        <note>
+            <item>Standalone Pro release line.</item>
+        </note>
     </changelog>
 </changelogs>
